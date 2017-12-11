@@ -1,0 +1,26 @@
+{
+  "name": "template-saas-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel theme -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y-Dept/template-saas-theme.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "yuhongda@jd.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Y-Dept/template-saas-theme/issues"
+  },
+  "homepage": "https://github.com/Y-Dept/template-saas-theme#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
